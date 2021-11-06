@@ -1,3 +1,7 @@
+# Training / Outputs
+stylegan2-ada/training_outputs
+stylegan2-ada/datasets
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
