@@ -2,7 +2,12 @@
 
 ## Objectives
 The goal of this project is to generate new Pokémon characters with both sprite images and description text to accompany it. We make use of the StyleGAN2-ADA library and CLIP library to complete the two halves of this project, first to generate images of characters, and then to pair it with generated text descriptions.
+## Dataset Download
+Download using an image scraper extenstion
+* https://pokemondb.net/pokedex/national
 
+## Dataset Santizing
+Use a took like ImageMagick to make all images 128x128px and RGB format only, not RGBA. Use `dataset_tool.py` to validate dataset and generate a single package.
 ## Libraries
-* https://github.com/NVlabs/stylegan2-ada-pytorch
-* https://github.com/openai/CLIP
+* https://github.com/NVlabs/stylegan2-ada-pytorch LICENSE: [Nvidia Source Code License](https://nvlabs.github.io/stylegan2-ada-pytorch/license.html)
+* https://github.com/openai/CLIP LICENSE: [MIT License](https://github.com/openai/CLIP/blob/main/LICENSE)
