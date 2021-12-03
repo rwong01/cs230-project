@@ -8,6 +8,10 @@ Download using an image scraper extenstion
 
 ## Dataset Santizing
 Use a took like ImageMagick to make all images 128x128px and RGB format only, not RGBA. Use `dataset_tool.py` to validate dataset and generate a single package.
+
+## Final Results
+![Final_Results](https://github.com/rwong01/cs230-project/blob/master/results_final.png?raw=true)
+
 ## Libraries
 * https://github.com/NVlabs/stylegan2-ada-pytorch LICENSE: [Nvidia Source Code License](https://nvlabs.github.io/stylegan2-ada-pytorch/license.html)
 * https://github.com/openai/CLIP LICENSE: [MIT License](https://github.com/openai/CLIP/blob/main/LICENSE)
