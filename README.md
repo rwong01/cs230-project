@@ -11,7 +11,7 @@ Use a took like ImageMagick to make all images 128x128px and RGB format only, no
 
 ## Final Results
 ![Final_Results](https://raw.githubusercontent.com/rwong01/cs230-project/main/results_final.png)
-
+![Final_Results](https://raw.githubusercontent.com/rwong01/cs230-project/main/finals_text.png)
 ## Libraries
 * https://github.com/NVlabs/stylegan2-ada-pytorch LICENSE: [Nvidia Source Code License](https://nvlabs.github.io/stylegan2-ada-pytorch/license.html)
 * https://github.com/openai/CLIP LICENSE: [MIT License](https://github.com/openai/CLIP/blob/main/LICENSE)
